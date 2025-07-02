@@ -1,7 +1,6 @@
 # EC2 Setup Instructions
 
 ## 1. Connect to EC2 Instance via EC2 Instance Connect
-
 ## 2. Install Node Version Manager (nvm) and Node.js
 
 - **Switch to superuser and install nvm:**
